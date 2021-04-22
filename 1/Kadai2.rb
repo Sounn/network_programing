@@ -1,3 +1,4 @@
+#ファイル読み込み
 require 'open-uri'
 url = "http://www0.ise.osaka-sandai.ac.jp/%7Eandrew/NP/S/s36"
 

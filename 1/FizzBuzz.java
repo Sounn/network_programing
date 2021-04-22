@@ -1,3 +1,4 @@
+//FizzBuzz
 class Kadai1
 {
   public static void main(String[] args)

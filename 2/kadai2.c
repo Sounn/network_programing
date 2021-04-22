@@ -1,3 +1,4 @@
+//1~13を13回ランダム出力
 #include <stdio.h>
 #include <time.h>
 

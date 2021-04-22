@@ -1,3 +1,4 @@
+#ループ構文を使わないループ
 def loop(a,b)
   if (a<b)
     puts a

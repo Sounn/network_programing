@@ -1,3 +1,4 @@
+//1~13を被りなしで出力
 #include <stdio.h>
 #include <time.h>
 
