@@ -1,0 +1,29 @@
+ 
+Displaying Text in Large Letters on Your Screen (banner Command)
+The banner command displays ASCII characters to your screen in large letters. Each line in the output can be up to 10 digits or uppercase or lowercase characters in length.
+
+For example, at the prompt, enter:
+
+banner GOODBYE!
+The system displays GOODBYE! in large letters at your screen.
+Z
+See the banner command in theAIX Version 4.3 Commands Reference for the exact syntax.
+
+Related Information
+Commands Overview
+
+Processes Overview
+
+Shells Overview
+
+Korn Shell or POSIX Shell
+
+Bourne Shell
+
+C Shell
+
+Files Overview
+
+The null special file.
+
+[ Previous | Next | Contents | Glossary | Home | Search ]
